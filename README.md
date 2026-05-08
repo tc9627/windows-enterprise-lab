@@ -202,6 +202,4 @@ Screenshots from the build and troubleshooting process will be uploaded througho
 
 ---
 
-# Goal of Lab
 
-The goal of this lab was to simulate enterprise help desk and Windows administration workflows in a hands-on environment to strengthen practical experience with the technologies and responsibilities listed in the AMERICAN SYSTEMS Help Desk Technician I role.
