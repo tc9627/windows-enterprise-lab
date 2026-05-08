@@ -4,7 +4,7 @@
 
 Built a small enterprise-style homelab in VMware Workstation based on the responsibilities listed in the Help Desk Technician job description.
 
-The purpose of the lab was to gain more hands-on experience with:
+The purpose of the lab was to demonstrate hands-on experience with:
 
 * Active Directory
 * DNS
